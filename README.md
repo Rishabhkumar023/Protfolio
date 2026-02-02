@@ -1,6 +1,6 @@
 # 💼 Rishabh Kumar – Developer Portfolio
 
-🚀 **Live Demo:** [Rishabh Kumar Portfolio](https://grow8569.github.io/Rishabhkumar.github.io/)
+🚀 **Live Demo:** [Rishabh Kumar Portfolio](https://rishabhkumar023.github.io/Rishabhkumar.github.io/)
 
 Welcome to my personal developer portfolio! This site showcases my skills, projects, and contact information in a responsive and modern layout. Built using HTML, CSS, and JavaScript, this portfolio is designed to reflect my professional journey and technical capabilities.
 
@@ -27,16 +27,6 @@ Welcome to my personal developer portfolio! This site showcases my skills, proje
 
 ## 📁 Folder Structure
 
-Rishabhkumar.github.io/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── images/
-│ └── (project images, profile photo, icons, etc.)
-└── README.md
-
 
 ---
 
@@ -45,8 +35,8 @@ Rishabhkumar.github.io/
 To run the project on your local machine:
 
 ```bash
-git clone https://github.com/grow8569/Rishabhkumar.github.io.git
-cd Rishabhkumar.github.io
+git clone https://rishabhkumar023.github.io/Rishabhkumar.github.io/
+cd Rishabhkumar023.github.io
 open index.html
 
 
